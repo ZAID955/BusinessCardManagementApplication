@@ -1,0 +1,7 @@
+button {
+  margin-right: 15px;
+}
+.mat-mdc-dialog-container {
+  width: 200%;
+  height: 200%;
+}

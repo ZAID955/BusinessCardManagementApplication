@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\BusinessCardManagementApplication\\BusinessCardWebApplication\\BusinessCard_API\\wwwroot\\images\\1013d917-979d-41fd-93eb-1586b8c5cd7c.webp",
+      "PackagePath": "staticwebassets\\images\\1013d917-979d-41fd-93eb-1586b8c5cd7c.webp"
+    },
+    {
+      "Id": "C:\\BusinessCardManagementApplication\\BusinessCardWebApplication\\BusinessCard_API\\wwwroot\\images\\25eefeb3-d891-41d8-bf40-b57935231c44.webp",
+      "PackagePath": "staticwebassets\\images\\25eefeb3-d891-41d8-bf40-b57935231c44.webp"
+    },
+    {
+      "Id": "C:\\BusinessCardManagementApplication\\BusinessCardWebApplication\\BusinessCard_API\\wwwroot\\images\\34265dfc-644e-4bf4-9be5-99d3164f44bc.webp",
+      "PackagePath": "staticwebassets\\images\\34265dfc-644e-4bf4-9be5-99d3164f44bc.webp"
+    },
+    {
+      "Id": "C:\\BusinessCardManagementApplication\\BusinessCardWebApplication\\BusinessCard_API\\wwwroot\\images\\828a146d-2fad-4d54-8994-654e7e3d8d67.webp",
+      "PackagePath": "staticwebassets\\images\\828a146d-2fad-4d54-8994-654e7e3d8d67.webp"
+    },
+    {
+      "Id": "C:\\BusinessCardManagementApplication\\BusinessCardWebApplication\\BusinessCard_API\\wwwroot\\images\\9876598c-c87b-4189-ae1f-aeb7727d3259.webp",
+      "PackagePath": "staticwebassets\\images\\9876598c-c87b-4189-ae1f-aeb7727d3259.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BusinessCard_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BusinessCard_API.props",
+      "PackagePath": "build\\BusinessCard_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BusinessCard_API.props",
+      "PackagePath": "buildMultiTargeting\\BusinessCard_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BusinessCard_API.props",
+      "PackagePath": "buildTransitive\\BusinessCard_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

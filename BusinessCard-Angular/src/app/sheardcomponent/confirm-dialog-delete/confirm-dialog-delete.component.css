@@ -1,0 +1,14 @@
+h1 {
+  margin: 20px;
+}
+div {
+  margin: 20px;
+}
+button {
+  margin-right: 8px;
+  font-size: 20px;
+  color: white;
+  padding: 8px;
+  border-color: white;
+  border: 0px;
+}

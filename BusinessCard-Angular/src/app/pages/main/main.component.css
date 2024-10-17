@@ -1,0 +1,21 @@
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+.card {
+  border: none;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.input-group {
+  width: 50%;
+  margin-left: 25%;
+}
+.example-button-row button,
+.example-button-row a {
+  margin-right: 8px;
+}
+
+.example-disabled {
+  display: inline-block;
+}

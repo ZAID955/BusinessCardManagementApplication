@@ -1,0 +1,144 @@
+[
+  {
+    "ContainingType": "BusinessCard_API.Controllers.BusinessCardController",
+    "Method": "CreateBusinessCardAsync",
+    "RelativePath": "api/BusinessCard/CreateBusinessCard",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BusinessCard_Core.Dtos.BusinessCardDtos.CreateBusinessCardDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusinessCard_API.Controllers.BusinessCardController",
+    "Method": "DeleteBusinessCard",
+    "RelativePath": "api/BusinessCard/DeleteBusinessCard/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusinessCard_API.Controllers.BusinessCardController",
+    "Method": "FilterOnBusinessCard",
+    "RelativePath": "api/BusinessCard/FilterOnBusinessCard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusinessCard_API.Controllers.BusinessCardController",
+    "Method": "GetAllBusinessCardAsync",
+    "RelativePath": "api/BusinessCard/GetAllBusinessCard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusinessCard_API.Controllers.FilesController",
+    "Method": "ExportBusinessCardsToCsvFileAsync",
+    "RelativePath": "api/Files/ExportBusinessCardsToCsvFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusinessCard_API.Controllers.FilesController",
+    "Method": "ExportBusinessCardsToXmlFileAsync",
+    "RelativePath": "api/Files/ExportBusinessCardsToXmlFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusinessCard_API.Controllers.FilesController",
+    "Method": "ExportBusinessCardToCsvAsync",
+    "RelativePath": "api/Files/ExportBusinessCardToCsv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusinessCard_API.Controllers.FilesController",
+    "Method": "ExportBusinessCardToXmlFileAsync",
+    "RelativePath": "api/Files/ExportBusinessCardToXmlFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusinessCard_API.Controllers.FilesController",
+    "Method": "ImportBusinessCardsFromCsvAsync",
+    "RelativePath": "api/Files/ImportBusinessCardsFromCsv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BusinessCard_API.Controllers.FilesController",
+    "Method": "ImportBusinessCardsFromXmlAsync",
+    "RelativePath": "api/Files/ImportBusinessCardsFromXml",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
